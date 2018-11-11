@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StreetCaster</string>
+    <string name="welcome_message">Thanks for your support of the StreetCaster project.\n
+        We appreciate your effort to help us keep the community under the best condition.
+    </string>
+    <string name="street">House #,   Street Name</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="zipCode">Zip Code</string>
+    <string name="email">Optional: Email</string>
+    <string name="streetCast">Learn more about streetCaster</string>
+    <string name="website">Visit our Website</string>
+    <string name="updates">Keep Me Updated\n</string>
+    <string name="picture">Take a picture</string>
+</resources>
